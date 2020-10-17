@@ -1,0 +1,2 @@
+# Blockchain-project1
+This is a project i made in high-school using basic python object oriented programming. This project is just a simple emulation of the hashing and mining system that governs the transferring of cryptocurrency. It does not go into the depths of the engineering behind the making of a cryptocurrency, nor does it explain what cryptocurrency is. It only serves a purpose of simulating a network of "entities", that are hashed into addresses, and interlinked with other objects, forming what is called a "BLOCKCHAIN".
